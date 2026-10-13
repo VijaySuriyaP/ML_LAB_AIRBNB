@@ -8,7 +8,7 @@ neural network trained on several cities **transfers** to an unseen city.
 The implementation follows the approach of *"Predicting Airbnb Listing Price Across Different
 Cities"* (Luo, Zhou, Zhou – 2019).
 
-> **Team:** _<VIJAY SURIYA P - PES1UG24AM320>_, _<UTKARSH KUMAR - PES1UG24AM310>_  |  **Problem #:** _<your assigned number>_  |  **Section:** _<section>_
+> **Team:** _<VIJAY SURIYA P - PES1UG24AM320>_, _<UTKARSH KUMAR - PES1UG24AM310>_  |  **Problem #:*Airbnb Price Prediction* _<71>_  |  **Section:** _<AIML-F>_
 
 ## What is implemented
 
